@@ -1,16 +1,33 @@
-### Hi there 👋
+![Github Banner](http://choclacode.eu.org/public/assets/img/logo/cover.png)
 
-<!--
-**chocosinensis/chocosinensis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nazmus Saqib
+### Trying to be A Tranquil Soul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Here are some ideas to get you started:
+A IXth Grader, God-fearing Monothiest, and Dweller of the East who is passionate about mathematics, science, philosophy, religion, literature, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌺 &emsp;Connect with me
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChocoSinensis) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCuxNNDSPkN4MTbyubs9OQfQ) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chocosinensis) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/chocosinensis) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saqib.ml)
+
+#### Business
+
+✉️ &emsp;contact@saqib.ml
+
+<details>
+<summary>
+  Want to know more about me?
+</summary>
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chocosinensis.chocosinensis)
+
+<br >
+
+[choclacode](http://choclacode.eu.org/about)
+
+#### Github Stats
+
+![chocosinensis' github stats](https://github-readme-stats.vercel.app/api?username=chocosinensis&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
