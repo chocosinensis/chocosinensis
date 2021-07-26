@@ -23,26 +23,17 @@ contact@saqib.ml
 
 ---
 
-<br>
-
 ### Github Stats
 
 <br>
 
 ![chocosinensis' github stats](https://github-readme-stats.vercel.app/api?username=chocosinensis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<br>
-
 ---
 
-<br>
 
 ### Profile Visits 
 
 <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chocosinensis.chocosinensis)
-
-<br><br>
-
-<style>*{outline:none}</style>
