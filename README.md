@@ -9,25 +9,18 @@ A IXth Grader, God-fearing Monothiest, and Dweller of the East who is passionate
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChocoSinensis) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCuxNNDSPkN4MTbyubs9OQfQ) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chocosinensis) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/chocosinensis) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saqib.ml)
 
-#### Business
+---
 
-✉️ &emsp;contact@saqib.ml
-
-<details>
-<summary>
-  Want to know more about me?
-</summary>
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chocosinensis.chocosinensis)
-
-<br >
-
-[choclacode](http://choclacode.eu.org/about)
-
-#### Github Stats
+### Github Stats
 
 ![chocosinensis' github stats](https://github-readme-stats.vercel.app/api?username=chocosinensis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+---
+
+### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chocosinensis.chocosinensis)
+
+### Contact
+
+✉️ &emsp;contact@saqib.ml
