@@ -5,7 +5,9 @@
 
 <br>
 
-A IXth Grader, God-fearing Monothiest, and Dweller of the East who is passionate about mathematics, science, philosophy, religion, literature, and programming.
+> A IXth Grader, God-fearing Monothiest, and Dweller of the East who is passionate about mathematics, science, philosophy, religion, literature, and programming.
+
+![hibiscus](hibiscus.png)
 
 ---
 
